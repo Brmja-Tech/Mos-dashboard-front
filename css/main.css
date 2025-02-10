@@ -4,20 +4,15 @@
   }
   
   .btn-singin {
-    background-color:#D3C312
+    background: linear-gradient(270deg, #D3C312 0%, #0FA98A 100%);
+
 ;
     color: #fff !important;
   }
   
   .bg-sing {
-    background: -webkit-linear-gradient(left, #0FA98A
-    50%, #fff 50%);
-    background: -o-linear-gradient(left, #0FA98A
- 50%, #fff 50%);
-    background: -moz-linear-gradient(left, #0FA98A
- 50%, #fff 50%);
-    background: linear-gradient(to left, #0FA98A
- 50%, #fff 50%);
+    background: linear-gradient(to left, #D3C312 0%, #0FA98A 50%, #fff 50%);
+
   }
   
   
