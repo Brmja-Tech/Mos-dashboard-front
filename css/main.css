@@ -1,18 +1,23 @@
  
   .text-singin {
-    color: #D24726;
+    color: #D3C312;
   }
   
   .btn-singin {
-    background-color: #D24726;
+    background-color:#D3C312
+;
     color: #fff !important;
   }
   
   .bg-sing {
-    background: -webkit-linear-gradient(left, #D24726 50%, #fff 50%);
-    background: -o-linear-gradient(left, #D24726 50%, #fff 50%);
-    background: -moz-linear-gradient(left, #D24726 50%, #fff 50%);
-    background: linear-gradient(to left, #D24726 50%, #fff 50%);
+    background: -webkit-linear-gradient(left, #0FA98A
+    50%, #fff 50%);
+    background: -o-linear-gradient(left, #0FA98A
+ 50%, #fff 50%);
+    background: -moz-linear-gradient(left, #0FA98A
+ 50%, #fff 50%);
+    background: linear-gradient(to left, #0FA98A
+ 50%, #fff 50%);
   }
   
   
@@ -23,7 +28,8 @@
   @media (max-width: 767px) {
     
     .bg-sing {
-      background: linear-gradient(to bottom, #D24726 50%, #fff 50%);
+      background: linear-gradient(to bottom, #0FA98A
+ 50%, #fff 50%);
     }
   
   
