@@ -620,7 +620,9 @@ $dropdownAnimation: .6s cubic-bezier(.25, .8, .25, 1) 0s normal forwards 1 animd
         >a {
           color: $menuLink_Hover_Color;
           text-decoration: none;
-          background-color: $menu_bg_color;
+          background: linear-gradient(0deg, #000000, #000000),
+linear-gradient(90deg, #D3C312 0%, #0FA98A 100%);
+
         }
       }
 

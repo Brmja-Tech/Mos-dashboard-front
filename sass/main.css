@@ -441,19 +441,19 @@ input::placeholder {
   margin-left: 10px;
 }
 .sidebar-wrapper .sidebar-nav .metismenu a:active {
-  color: #D24726;
+  color: #fff ;
   text-decoration: none;
-  background-color: rgb(255, 238, 231);
+    background:linear-gradient(90deg, #D3C312 0%, #0FA98A 100%);
 }
 .sidebar-wrapper .sidebar-nav .metismenu a:focus {
-  color: #D24726;
+  color: #fff ;
   text-decoration: none;
-  background-color: rgb(255, 238, 231);
+    background:linear-gradient(90deg, #D3C312 0%, #0FA98A 100%);
 }
 .sidebar-wrapper .sidebar-nav .metismenu a:hover {
-  color: #D24726;
+  color: #fff ;
   text-decoration: none;
-  background-color: rgb(255, 238, 231);
+    background:linear-gradient(90deg, #D3C312 0%, #0FA98A 100%);
 }
 .sidebar-wrapper .sidebar-nav .metismenu ul {
   background-color: #fff;
@@ -474,9 +474,9 @@ input::placeholder {
   padding: 8px 15px 8px 45px;
 }
 .sidebar-wrapper .sidebar-nav .metismenu .mm-active > a {
-  color: #D24726;
+  color: #fff ;
   text-decoration: none;
-  background-color: rgb(255, 238, 231);
+    background:linear-gradient(90deg, #D3C312 0%, #0FA98A 100%);
 }
 .sidebar-wrapper .menu-label {
   padding: 10px 16px 10px 16px;
