@@ -254,8 +254,8 @@
         
       }
       .table thead th {
-        background-color: #63a5f7;
-        color: white;
+        /* background-color: #63a5f7; */
+        /* color: white; */
         text-align: center;
         border-radius: 5px;
         padding: 10px;
